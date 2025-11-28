@@ -25,6 +25,4 @@ This project involves the development of a **predictive model** to forecast Tesl
 - **Scikit-Learn** – Machine learning library for building and evaluating models.  
 - **Time Series Analysis** – Statistical methods like ARIMA and Exponential Smoothing for trend analysis.  
 
----
 
-## 📁 **Project Structure**  
