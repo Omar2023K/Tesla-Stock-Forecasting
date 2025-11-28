@@ -14,6 +14,9 @@ This project involves the development of a **predictive model** to forecast Tesl
 
 ---
 
+## 📷 Dashboard Preview
+![Tesla Stock Forecast](PIC.png)
+
 ## 🛠️ **Technologies Used**  
 - **Python** – Programming language for data analysis and model building.  
 - **Pandas** – Data manipulation and preprocessing.  
